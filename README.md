@@ -5,7 +5,7 @@ This repository contains a example to demonstrate how to serialize custom object
 #### Files:
 
 1. Employee.java: This file contains our custom employee class for Java.
-2. Demo.java: This file connects to the Hazelcast cluster and puts 3 Employee items into a map.
+2. Demo.java: This file connects to the Hazelcast cluster and puts 3 Employees into a map.
 
 3. employee.py: This file includes custom employee class for Python. It also reads items in the map that we put in Demo.java before.
 
