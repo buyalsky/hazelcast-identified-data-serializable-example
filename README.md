@@ -9,6 +9,6 @@ This repository contains a example to demonstrate how to serialize custom object
 
 3. employee.py: This file includes custom employee class for Python. It also reads items in the map that we put in Demo.java before.
 
-Note that this example works with Hazelcast IMDG with version 3.12, since Hazelcast 4.0 and above not yet supported in Python Client.
+Note that this example works with Hazelcast IMDG with version 3.12, since v4.0 and above not yet supported in Python Client.
 
-Please see https://github.com/hazelcast/hazelcast-python-client#4-serialization for more serialization options for Python Client 
+Please see https://github.com/hazelcast/hazelcast-python-client#4-serialization for more available serialization options for Python Client 
