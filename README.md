@@ -11,4 +11,4 @@ This repository contains a example to demonstrate how to serialize custom object
 
 Note that this example works with Hazelcast IMDG with version 3.12, since v4.0 and above not yet supported in Python Client.
 
-Please see https://github.com/hazelcast/hazelcast-python-client#4-serialization for more available serialization options for Python Client 
+Please see https://github.com/hazelcast/hazelcast-python-client#4-serialization for more available serialization options.
